@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-30T04:02:23.519Z",
+ "updated": "2026-06-30T19:02:45.823Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1125,6 +1125,21 @@
    "pens2": 3,
    "status": "PEN",
    "winner": "morocco"
+  },
+  {
+   "date": "2026-06-30",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "Ivory Coast",
+   "team2": "Norway",
+   "t1": "ivory-coast",
+   "t2": "norway",
+   "g1": 1,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "norway"
   },
   {
    "date": "2026-06-30",
