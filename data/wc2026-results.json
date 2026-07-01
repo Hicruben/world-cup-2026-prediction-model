@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T18:12:19.890Z",
+ "updated": "2026-07-01T23:02:21.191Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1200,6 +1200,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "england"
+  },
+  {
+   "date": "2026-07-02",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "Belgium",
+   "team2": "Senegal",
+   "t1": "belgium",
+   "t2": "senegal",
+   "g1": 3,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "AET",
+   "winner": "belgium"
   }
  ]
 }
