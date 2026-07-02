@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-01T23:02:21.191Z",
+ "updated": "2026-07-02T02:12:22.058Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1125,6 +1125,21 @@
    "pens2": 3,
    "status": "PEN",
    "winner": "morocco"
+  },
+  {
+   "date": "2026-06-29",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "USA",
+   "team2": "Bosnia & Herzegovina",
+   "t1": "usa",
+   "t2": "bosnia-and-herzegovina",
+   "g1": 2,
+   "g2": 0,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "usa"
   },
   {
    "date": "2026-06-30",
