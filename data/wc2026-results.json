@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T05:02:23.858Z",
+ "updated": "2026-07-03T21:04:28.576Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1185,6 +1185,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "france"
+  },
+  {
+   "date": "2026-07-01",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "Australia",
+   "team2": "Egypt",
+   "t1": "australia",
+   "t2": "egypt",
+   "g1": 1,
+   "g2": 1,
+   "pens1": 2,
+   "pens2": 4,
+   "status": "PEN",
+   "winner": "egypt"
   },
   {
    "date": "2026-07-01",
