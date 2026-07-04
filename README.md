@@ -39,6 +39,23 @@ node backtest.mjs
 | Correct result (win/draw/loss) | **62%** | always-home 49% · coin-flip 33% |
 | When a clear favourite (p ≥ 50%) | **69%** | — |
 
+
+## 📲 Get every pick in YOUR Telegram group — live
+
+Add **[@cup26aibot](https://t.me/cup26aibot)** to any Telegram group and it becomes a live World Cup feed powered by this model — no setup, no sign-up, free:
+
+- 🔮 **The model's picks before every kickoff** — the same locked predictions tracked in the record below
+- ⚽ **Live goal cards** with real-time win probability, seconds after every goal
+- 🎬 **Goal video clips** as they happen
+- 📊 Deep tactical breakdowns, polls, and the golden-boot race
+
+| A real goal card, as posted live (France 3–0 Sweden, R32) | The record it stands on |
+|---|---|
+| ![Live goal card posted by the bot](docs/assets/live-goal-card.png) | ![Public track record](docs/assets/track-record.png) |
+
+New groups are instantly backfilled with the latest posts. Mute anytime with `/stop`. Prefer a channel? Follow **[@world26ai](https://t.me/world26ai)**.
+
+
 ### Is it calibrated? (the chart that matters)
 
 A forecaster is honest when the things it calls "70%" happen about 70% of the time. Pooling every
