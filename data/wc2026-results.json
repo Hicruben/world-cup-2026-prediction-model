@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T00:52:21.284Z",
+ "updated": "2026-07-04T03:42:20.263Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1275,6 +1275,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "portugal"
+  },
+  {
+   "date": "2026-07-03",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "Colombia",
+   "team2": "Ghana",
+   "t1": "colombia",
+   "t2": "ghana",
+   "g1": 1,
+   "g2": 0,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "colombia"
   },
   {
    "date": "2026-07-03",
