@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-03T21:04:28.576Z",
+ "updated": "2026-07-04T00:52:21.284Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1200,6 +1200,21 @@
    "pens2": 4,
    "status": "PEN",
    "winner": "egypt"
+  },
+  {
+   "date": "2026-07-01",
+   "round": "Round of 32",
+   "group": null,
+   "team1": "Argentina",
+   "team2": "Cape Verde",
+   "t1": "argentina",
+   "t2": "cape-verde",
+   "g1": 3,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "AET",
+   "winner": "argentina"
   },
   {
    "date": "2026-07-01",
