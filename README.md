@@ -73,21 +73,21 @@ The model's call on **every finished match** of the tournament, updated as it ha
 
 | Date | Result | Model's pick | |
 |---|---|---|---|
-| 2026-07-03 | Colombia 1–0 Ghana | Colombia 62% | ✅ |
-| 2026-07-03 | Spain 3–0 Austria | Spain 70% | ✅ |
+| 2026-07-04 | Colombia 1–0 Ghana | Colombia 62% | ✅ |
+| 2026-07-03 | Australia 1–1 (2–4 p) Egypt | Australia 45% | ❌ |
+| 2026-07-03 | Argentina 3–2 aet Cape Verde | Argentina 74% | ✅ |
 | 2026-07-03 | Switzerland 2–0 Algeria | Switzerland 48% | ✅ |
-| 2026-07-02 | England 2–1 DR Congo | England 76% | ✅ |
-| 2026-07-02 | Belgium 3–2 aet Senegal | Belgium 39% | ✅ |
+| 2026-07-02 | USA 2–0 Bosnia & Herzegovina | USA 69% | ✅ |
 | 2026-07-02 | Portugal 2–1 Croatia | Portugal 47% | ✅ |
-| 2026-07-01 | Australia 1–1 (2–4 p) Egypt | Australia 45% | ❌ |
-| 2026-07-01 | Argentina 3–2 aet Cape Verde | Argentina 74% | ✅ |
+| 2026-07-02 | Spain 3–0 Austria | Spain 70% | ✅ |
 | 2026-07-01 | Mexico 2–0 Ecuador | Mexico 43% | ✅ |
+| 2026-07-01 | England 2–1 DR Congo | England 76% | ✅ |
+| 2026-07-01 | Belgium 3–2 aet Senegal | Belgium 39% | ✅ |
+| 2026-06-30 | Netherlands 1–1 (2–3 p) Morocco | Netherlands 38% | ❌ |
 | 2026-06-30 | Ivory Coast 1–2 Norway | Norway 53% | ✅ |
-| 2026-06-30 | Germany 1–1 (3–4 p) Paraguay | Germany 65% | ❌ |
 | 2026-06-30 | France 3–0 Sweden | France 66% | ✅ |
 | 2026-06-29 | Brazil 2–1 Japan | Brazil 51% | ✅ |
-| 2026-06-29 | Netherlands 1–1 (2–3 p) Morocco | Netherlands 38% | ❌ |
-| 2026-06-29 | USA 2–0 Bosnia & Herzegovina | USA 69% | ✅ |
+| 2026-06-29 | Germany 1–1 (3–4 p) Paraguay | Germany 65% | ❌ |
 | 2026-06-28 | South Africa 0–1 Canada | Canada 60% | ✅ |
 | 2026-06-27 | Algeria 3–3 Austria | Austria 37% | ❌ |
 | 2026-06-27 | Jordan 1–3 Argentina | Argentina 84% | ✅ |
