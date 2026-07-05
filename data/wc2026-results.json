@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-04T09:20:23.866Z",
+ "updated": "2026-07-05T04:53:18.511Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1320,6 +1320,36 @@
    "pens2": null,
    "status": "FT",
    "winner": "switzerland"
+  },
+  {
+   "date": "2026-07-04",
+   "round": "Round of 16",
+   "group": null,
+   "team1": "Paraguay",
+   "team2": "France",
+   "t1": "paraguay",
+   "t2": "france",
+   "g1": 0,
+   "g2": 1,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "france"
+  },
+  {
+   "date": "2026-07-04",
+   "round": "Round of 16",
+   "group": null,
+   "team1": "Canada",
+   "team2": "Morocco",
+   "t1": "canada",
+   "t2": "morocco",
+   "g1": 0,
+   "g2": 3,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "morocco"
   }
  ]
 }
