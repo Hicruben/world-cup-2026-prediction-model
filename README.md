@@ -86,10 +86,11 @@ well-calibrated estimates, and we make **no claim to beat the betting market**.
 The model's call on **every finished match** of the tournament, updated as it happens:
 
 <!-- TRACK-RECORD:START -->
-**62/90 correct picks (69%) · avg RPS 0.142** (coin-flip ≈ 0.245) · updated 2026-07-05
+**62/91 correct picks (68%) · avg RPS 0.144** (coin-flip ≈ 0.245) · updated 2026-07-05
 
 | Date | Result | Model's pick | |
 |---|---|---|---|
+| 2026-07-05 | Brazil 1–2 Norway | Brazil 44% | ❌ |
 | 2026-07-04 | Colombia 1–0 Ghana | Colombia 62% | ✅ |
 | 2026-07-04 | Paraguay 0–1 France | France 74% | ✅ |
 | 2026-07-04 | Canada 0–3 Morocco | Morocco 45% | ✅ |

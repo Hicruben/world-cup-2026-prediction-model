@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-05T04:53:18.511Z",
+ "updated": "2026-07-05T22:12:16.163Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1350,6 +1350,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "morocco"
+  },
+  {
+   "date": "2026-07-05",
+   "round": "Round of 16",
+   "group": null,
+   "team1": "Brazil",
+   "team2": "Norway",
+   "t1": "brazil",
+   "t2": "norway",
+   "g1": 1,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "norway"
   }
  ]
 }
