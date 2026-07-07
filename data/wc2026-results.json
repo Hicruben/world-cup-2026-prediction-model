@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T18:12:15.718Z",
+ "updated": "2026-07-07T23:02:09.509Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1425,6 +1425,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "argentina"
+  },
+  {
+   "date": "2026-07-07",
+   "round": "Round of 16",
+   "group": null,
+   "team1": "Switzerland",
+   "team2": "Colombia",
+   "t1": "switzerland",
+   "t2": "colombia",
+   "g1": 0,
+   "g2": 0,
+   "pens1": 4,
+   "pens2": 3,
+   "status": "PEN",
+   "winner": "switzerland"
   }
  ]
 }
