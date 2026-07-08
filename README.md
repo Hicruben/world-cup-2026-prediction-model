@@ -86,7 +86,7 @@ well-calibrated estimates, and we make **no claim to beat the betting market**.
 The model's call on **every finished match** of the tournament, updated as it happens:
 
 <!-- TRACK-RECORD:START -->
-**65/96 correct picks (68%) · avg RPS 0.146** (coin-flip ≈ 0.245) · updated 2026-07-07
+**65/96 correct picks (68%) · avg RPS 0.146** (coin-flip ≈ 0.245) · updated 2026-07-08
 
 | Date | Result | Model's pick | |
 |---|---|---|---|
