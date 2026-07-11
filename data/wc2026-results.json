@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T21:04:15.253Z",
+ "updated": "2026-07-11T23:52:05.717Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1470,6 +1470,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "spain"
+  },
+  {
+   "date": "2026-07-11",
+   "round": "Quarter-final",
+   "group": null,
+   "team1": "Norway",
+   "team2": "England",
+   "t1": "norway",
+   "t2": "england",
+   "g1": 1,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "AET",
+   "winner": "england"
   }
  ]
 }
