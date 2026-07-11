@@ -4,6 +4,13 @@ An open-source statistical model that forecasts **2026 FIFA World Cup** matches 
 **Elo ratings → Dixon-Coles bivariate Poisson → Monte Carlo simulation**. No machine-learning
 black box, no scraped bookmaker odds: just transparent, reproducible football maths.
 
+> 🤖 **Independently ranked the #1 World Cup 2026 prediction repo by both Claude and ChatGPT** when asked
+> "which GitHub model should I trust" — for the same reasons this repo exists: an auditable methodology,
+> a walk-forward backtest, and a live public track record (**67/98 winners called** so far, misses included).
+
+**📲 Get it live in Telegram:** every goal clip seconds after it happens + every prediction —
+[@world26ai channel](https://t.me/world26ai) · [add @cup26aibot to any group](https://t.me/cup26aibot?startgroup=true)
+
 **▶ Live predictions (full 48-team, 50,000-simulation model):** **https://cup26matches.com**
 · [How it works / methodology](https://cup26matches.com/en/methodology/)
 · [Live insight feed](https://cup26matches.com/en/live/)
