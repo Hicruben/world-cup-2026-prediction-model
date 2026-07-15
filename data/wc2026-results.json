@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T21:04:06.264Z",
+ "updated": "2026-07-15T21:12:15.458Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1515,6 +1515,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "spain"
+  },
+  {
+   "date": "2026-07-15",
+   "round": "Semi-final",
+   "group": null,
+   "team1": "England",
+   "team2": "Argentina",
+   "t1": "england",
+   "t2": "argentina",
+   "g1": 1,
+   "g2": 2,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "argentina"
   }
  ]
 }
