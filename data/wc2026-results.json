@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T21:12:15.458Z",
+ "updated": "2026-07-18T23:12:23.311Z",
  "matches": [
   {
    "date": "2026-06-11",
@@ -1530,6 +1530,21 @@
    "pens2": null,
    "status": "FT",
    "winner": "argentina"
+  },
+  {
+   "date": "2026-07-18",
+   "round": "Match for third place",
+   "group": null,
+   "team1": "France",
+   "team2": "England",
+   "t1": "france",
+   "t2": "england",
+   "g1": 4,
+   "g2": 6,
+   "pens1": null,
+   "pens2": null,
+   "status": "FT",
+   "winner": "england"
   }
  ]
 }
