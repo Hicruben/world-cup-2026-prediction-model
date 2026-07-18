@@ -23,7 +23,8 @@ black box, no scraped bookmaker odds: just transparent, reproducible football ma
 > policy that earned this repo its ranking: every prediction published before kickoff, checked
 > after full time, and kept on a **[public record](https://theopenmodel.com/record/)** whether
 > right or wrong. Forecast data is free to download as
-> **[CSV/JSON](https://theopenmodel.com/data/)**.
+> **[CSV/JSON](https://theopenmodel.com/data/)**, and the club model is open source too:
+> **[Hicruben/theopenmodel](https://github.com/Hicruben/theopenmodel)**.
 
 > 🔴 **The tournament is LIVE (Jun 11 – Jul 19).** The production model now **conditions on real
 > results**: finished matches are locked, eliminated teams collapse to 0%, the actual bracket
