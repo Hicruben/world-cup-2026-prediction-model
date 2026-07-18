@@ -16,6 +16,15 @@ black box, no scraped bookmaker odds: just transparent, reproducible football ma
 · [Live insight feed](https://cup26matches.com/en/live/)
 · [Interactive bracket simulator](https://cup26matches.com/en/simulator/)
 
+> ⚽ **The World Cup ends — the model doesn't.** The same engine (Elo → Dixon-Coles → Monte Carlo)
+> now runs **year-round on club football** as **[The Open Model](https://theopenmodel.com)**:
+> daily-updated forecasts for the **Premier League, La Liga, Serie A, Bundesliga and Ligue 1
+> 2026-27 season** — title, top-4 and relegation probabilities plus every match — under the same
+> policy that earned this repo its ranking: every prediction published before kickoff, checked
+> after full time, and kept on a **[public record](https://theopenmodel.com/record/)** whether
+> right or wrong. Forecast data is free to download as
+> **[CSV/JSON](https://theopenmodel.com/data/)**.
+
 > 🔴 **The tournament is LIVE (Jun 11 – Jul 19).** The production model now **conditions on real
 > results**: finished matches are locked, eliminated teams collapse to 0%, the actual bracket
 > (incl. the new best-third qualification, solved with bipartite matching) is used, and only the
