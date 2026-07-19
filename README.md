@@ -103,10 +103,11 @@ well-calibrated estimates, and we make **no claim to beat the betting market**.
 The model's call on **every finished match** of the tournament, updated as it happens:
 
 <!-- TRACK-RECORD:START -->
-**70/103 correct picks (68%) · avg RPS 0.149** (coin-flip ≈ 0.245) · updated 2026-07-18
+**71/104 correct picks (68%) · avg RPS 0.150** (coin-flip ≈ 0.245) · updated 2026-07-19
 
 | Date | Result | Model's pick | |
 |---|---|---|---|
+| 2026-07-19 | Spain 1–0 aet Argentina | Spain 39% | ✅ |
 | 2026-07-18 | France 4–6 England | France 37% | ❌ |
 | 2026-07-15 | England 1–2 Argentina | England 37% | ❌ |
 | 2026-07-14 | France 0–2 Spain | Spain 36% | ✅ |
